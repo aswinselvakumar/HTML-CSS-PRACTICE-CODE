@@ -1,0 +1,24 @@
+.a{
+  font-family: montserrat;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 60px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.b{
+  font-family: montserrat;
+  font-size: 15px;
+  font-size: 400;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.c{
+  font-family: montserrat;
+  font-size: 15px;
+  font-size: 400;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  text-decoration: underline;
+  cursor: pointer;
+}

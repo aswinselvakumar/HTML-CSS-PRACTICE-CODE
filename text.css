@@ -1,0 +1,45 @@
+
+.video-title{
+  font-family: Roboto;
+  font-size: large;
+  font-weight: bold; 
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 3px;
+}
+.views-month{
+  font-family: Arial;
+  font-size: 14px;
+  color: #6c757d;
+  margin-top: 0px;
+  margin-bottom: 8px;
+} 
+.yt-channel{
+  font-family: Arial;
+  font-size: 14px;
+  color:#6c757d;
+  margin-bottom: 20px;
+}
+.description{
+  font-family: Arial;
+  font-size: 14px;
+  width: 280px;
+  color: #6c757d;
+  line-height: 19px;
+  margin-top:0px;
+  margin-bottom: 50px;
+}
+.apple-des{
+  font-family: arial;
+  margin-top:0px;
+  text-align: center;
+  background-color:#e34140;
+  color: white;
+  padding: 16px;
+}
+.span{
+  cursor:pointer;
+}
+.span:hover{
+ text-decoration: underline;
+}
